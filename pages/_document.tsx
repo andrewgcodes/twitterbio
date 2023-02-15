@@ -24,11 +24,11 @@ class MyDocument extends Document {
           />
           <meta
             property="og:image"
-            content="https://twitterbio.com/og-image.png"
+            content="https://cloud-b18edru2h-hack-club-bot.vercel.app/0towfiqu-barbhuiya-bwoaixlg0uc-unsplash.jpg"
           />
           <meta
             name="twitter:image"
-            content="https://twitterbio.com/og-image.png"
+            content="https://cloud-b18edru2h-hack-club-bot.vercel.app/0towfiqu-barbhuiya-bwoaixlg0uc-unsplash.jpg"
           />
         </Head>
         <body>
