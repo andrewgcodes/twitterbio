@@ -70,7 +70,7 @@ const Home: NextPage = () => {
 
       <Header />
       <main className="flex flex-1 w-full flex-col items-center justify-center text-center px-4 mt-12 sm:mt-20">
-        <h1 className="sm:text-6xl text-4xl max-w-2xl font-bold text-slate-900">
+      <h1 className="sm:text-6xl text-4xl max-w-2xl font-bold bg-gradient-to-r from-pink-500 to-purple-500 text-transparent bg-clip-text">
           Format any date with AI.
         </h1>
         <a href='https://mobile.twitter.com/itsandrewgao' className="text-slate-500 mt-5">@itsandrewgao</a>
@@ -99,8 +99,8 @@ const Home: NextPage = () => {
          
           {!loading && (
             <button
-              className="bg-black rounded-xl text-white font-medium px-4 py-2 sm:mt-10 mt-8 hover:bg-black/80 w-full"
-              onClick={(e) => generateBio(e)}
+            className="bg-gradient-to-r from-pink-500 to-purple-500 rounded-xl text-white font-medium px-4 py-2 sm:mt-10 mt-8 hover:bg-gradient-to-r hover:from-pink-600 hover:to-purple-600 w-full"
+            onClick={(e) => generateBio(e)}
             >
              Format &rarr;
             </button>
