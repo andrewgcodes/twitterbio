@@ -8,19 +8,19 @@ class MyDocument extends Document {
           <link rel="icon" href="/favicon.ico" />
           <meta
             name="description"
-            content="Generate your next Twitter bio in seconds."
+            content="Format any date string with AI."
           />
           <meta property="og:site_name" content="twitterbio.com" />
           <meta
             property="og:description"
-            content="Generate your next Twitter bio in seconds."
+            content="Format any date string with AI."
           />
-          <meta property="og:title" content="Twitter Bio Generator" />
+          <meta property="og:title" content="AI Date Formatter" />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content="Twitter Bio Generator" />
+          <meta name="twitter:title" content="AI Date Formatter" />
           <meta
             name="twitter:description"
-            content="Generate your next Twitter bio in seconds."
+            content="Format any date string with AI."
           />
           <meta
             property="og:image"
